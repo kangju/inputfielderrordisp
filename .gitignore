@@ -1,0 +1,7 @@
+#nodejs
+node_modules
+package-lock.json
+
+#build and test
+build/
+test/

@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "browserify ./src/main.js -s bundle -o ./build/bundle.js",
+    "help": "browserify -h"
+  },
+  "dependencies": {
+    "jquery": "^3.6.3"
+  },
+  "devDependencies": {
+    "browserify": "^17.0.0"
+  }
+}
